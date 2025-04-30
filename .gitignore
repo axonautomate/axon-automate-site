@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+
+# Build output
+.next/
+dist/
+out/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Env variables & secrets
+.env
+.env.local
+.env.development.local
+.env.production.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+
+# Replit settings (if any)
+.replit
